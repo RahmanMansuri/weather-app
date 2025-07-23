@@ -26,7 +26,7 @@ A simple and responsive **Weather App** built using HTML, CSS, and JavaScript th
 
 weather-app/ <br>
 ├── index.html # Main HTML structure <br>
-├── style.css # Styling <br>
+├── wheather-style.css # Styling <br>
 ├── script.js # API integration and logic <br>
 └── README.md # Project documentation <br>
 
