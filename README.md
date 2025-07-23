@@ -18,7 +18,7 @@ A simple and responsive **Weather App** built using HTML, CSS, and JavaScript th
 - HTML
 - CSS
 - JavaScript
-- [Wheather API](https://api.openweathermap.org/data/2.5/weather?units=metric) 
+- [OpenWeatherMap API](https://api.openweathermap.org/data/2.5/weather?units=metric) 
 
 ---
 
